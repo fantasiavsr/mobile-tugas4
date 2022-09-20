@@ -10,6 +10,7 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id imageList
+id parentLayout
 id recyclerView
 id text_subtitle
 id text_title

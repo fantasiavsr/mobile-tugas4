@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\alifrizki.tugas4.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\alifrizki.tugas4.app-main-7:\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\alifrizki.tugas4.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\alifrizki.tugas4.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\alifrizki.tugas4.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\alifrizki.tugas4.app-main-7:\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\7.3.3\\alifrizki.tugas4.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",

@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                     MyItem.iconList[i]));
         }
 
-        recyclerViewAdapter = new AdapterRecyclerView(data);
+        recyclerViewAdapter = new AdapterRecyclerView(this, data);
         recyclerView.setAdapter(recyclerViewAdapter);
     }
 }

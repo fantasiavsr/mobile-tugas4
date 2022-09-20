@@ -1,4 +1,4 @@
-#Tue Sep 20 13:16:21 ICT 2022
+#Tue Sep 20 15:37:58 ICT 2022
 base.2=C\:\\Mobile\\04\\Tugas4\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
 path.2=3/classes.dex
 base.1=C\:\\Mobile\\04\\Tugas4\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
